@@ -9,7 +9,7 @@ It showcases practical skills I’ve developed in cybersecurity, including Linux
 
 ## Completed Portfolio Activities
 
-- **Manage File Permissions in Linux** (Course 4) → [manage-file-permissions-linux.md](manage-file-permissions-linux.md)
+- **Manage File Permissions in Linux** (Course 4) → [Manage-file-permissions-linux.md](Manage-file-permissions-linux.md)
 - **SQL Filters for Security Investigation** (Course 4) → [Apply filters to SQL queries.pdf](Apply%20filters%20to%20SQL%20queries.pdf)
 - **Algorithm for File Updates in Python** (Course 7) → [Algorithm-for-file-updates-in-Python.md](Algorithm-for-file-updates-in-Python.md)
 

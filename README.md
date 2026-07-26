@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-**Name:** Martin Dinkha  
+**Name:** Martin Dawood 
 **Status:** Currently completing the Google Cybersecurity Professional Certificate
 
 ## About This Repository
